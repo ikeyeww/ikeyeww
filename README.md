@@ -1,5 +1,5 @@
-<img width="735" height="245" alt="_ (19)" src="https://github.com/user-attachments/assets/41073974-fdac-4121-9f05-c9e563cc0b18" />
-
+<img width="640" height="38" alt="image" src="https://github.com/user-attachments/assets/87212b80-74d4-44ff-9431-a6722424ce93" />
+<img width="640" height="38" alt="image" src="https://github.com/user-attachments/assets/9bb2d395-8f76-476f-9051-7f851f04e56b" />
 
 <!--
 **ikeyeww/ikeyeww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
